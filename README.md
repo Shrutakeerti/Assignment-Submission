@@ -25,16 +25,16 @@ cd your_repository
 
    ```
 ### 2. On macOS/Linux:
-    ```bash
+    
     source venv/bin/activate
     
-     ```
+    
 ### 3.On Windows:  
 
-     ```bash
+     
     venv\Scripts\activate
 
-    ```
+    
 ## Install the Required Libraries
 
 Ensure you have **Python 3.8+** installed. Install the required libraries:
